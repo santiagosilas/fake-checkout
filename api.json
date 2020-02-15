@@ -9,7 +9,7 @@
 		"BOLETO",
 		"CREDIT_CARD"
 	  ],
-	  "installments": 1, //parcelas
+	  "installments": 1, 
 	}
 ],
 "subscriptions": [
